@@ -1,0 +1,7 @@
+Quero dizer que estou inspirado com o universo Mozzila, estou buscando entender sobre a linguagem de programação que é utilizada no desenvolvimento do Firefox, esperando assim poder crescer profissionalmente e até migrar para Dev. Através do material disponibilizado no Portal Mozzila consegui desenvolver esta pagina ainda que simples mas com alguns recursos, texto justificado, tópicos em negrito, mensagem de boas-vindas personalizado, alternador de imagem ao clicar nela, botao para alterar o nome, tudo isso utilizando liguagem HTML, estilo CSS e codigo Javascript.
+
+    Mensagem de boas-vindas personalizado
+    Alternador de imagem ao clicar
+    Botao para Alterar o Nome
+
+Leia mais sobre Mozilla Manifesto para conhecer ainda mais os valores e princípios que norteiam a busca de nossa missão.
